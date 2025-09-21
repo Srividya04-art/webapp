@@ -10,6 +10,12 @@ This is a full-stack blogging web application where users can register, log in, 
 - Display posts on profile page
 - Edit profile functionality (bio, username, profile picture)
 - Responsive and user-friendly UI
+- 
+## Prerequisites
+
+- Node.js and npm installed
+- MySQL database setup
+- Git (to clone the repository)
 
 ## Project Structure
 
