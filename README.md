@@ -30,6 +30,7 @@ webapp/
 - Database: MySQL
 - Authentication: JWT
 - HTTP Requests: Axios
+  
 AI Tools & Prompting Techniques
 
 Used ChatGPT to assist with:
