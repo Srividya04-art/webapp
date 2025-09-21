@@ -30,7 +30,35 @@ webapp/
 - Database: MySQL
 - Authentication: JWT
 - HTTP Requests: Axios
+AI Tools & Prompting Techniques
 
+Used ChatGPT to assist with:
+
+React + Node.js project structure
+
+User authentication with JWT
+
+Profile management (uploading/displaying profile photos)
+
+Designing responsive UI
+
+Prompting techniques included:
+
+Step-by-step guidance for integrating frontend and backend
+
+Converting backend queries into frontend-friendly API responses
+
+Debugging common errors (CORS, profile image display, Git setup)
+
+Challenges faced:
+
+Handling profile images without an uploads folder
+
+Ensuring frontend correctly fetches and displays profile images
+
+Integrating JWT authentication in React app
+
+Structuring a single GitHub repo for frontend and backend
 ## Installation
 
 ### 1. Backend
@@ -73,35 +101,7 @@ Update your profile (bio, username, and profile picture)
 Create, edit, and delete blog posts
 
 View all posts on your profile page
-AI Tools & Prompting Techniques
 
-Used ChatGPT to assist with:
-
-React + Node.js project structure
-
-User authentication with JWT
-
-Profile management (uploading/displaying profile photos)
-
-Designing responsive UI
-
-Prompting techniques included:
-
-Step-by-step guidance for integrating frontend and backend
-
-Converting backend queries into frontend-friendly API responses
-
-Debugging common errors (CORS, profile image display, Git setup)
-
-Challenges faced:
-
-Handling profile images without an uploads folder
-
-Ensuring frontend correctly fetches and displays profile images
-
-Integrating JWT authentication in React app
-
-Structuring a single GitHub repo for frontend and backend
 
 Notes
 
